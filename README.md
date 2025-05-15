@@ -16,7 +16,13 @@ Analisar um conjunto de dados históricos de vendas pra obter insights para ajud
 - Realizar a limpeza necessária (tratar valores nulos, remover duplicatas, etc.)
 - Fazer a normalização de colunas quando necessário
 - Criar um modelo relacional e conectar as tabelas adequadamente
-- Descrever os passos de preparação dos dados adotados
+
+![Texto alternativo](img/tabela_relacionamentos.png)
+
+- Descrever os passos de preparação dos dados adotados.
+   * Mapeamento e uma visão geral das tabelas e relacionamentos entre elas
+   * Criação de classes pra proporcionar escalabildade do código.
+   * Aplicação do conceito de Staging Area pra trabalhar com os dados e não alterar os dados originais.
 
 ### 2. Análise Exploratória de Dados (25 pontos)
 

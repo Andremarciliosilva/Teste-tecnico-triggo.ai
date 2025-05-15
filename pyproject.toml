@@ -6,9 +6,13 @@ authors = [
     {name = "Andre Silva",email = "andremarciliosilva@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12.10"
 dependencies = [
-    "pandas (>=2.2.3,<3.0.0)"
+    "matplotlib (>=3.10.3,<4.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "notebook (>=7.4.2,<8.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "numpy (>=2.2.5,<3.0.0)"
 ]
 
 
