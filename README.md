@@ -17,7 +17,7 @@ Analisar um conjunto de dados históricos de vendas pra obter insights para ajud
 - Fazer a normalização de colunas quando necessário
 - Criar um modelo relacional e conectar as tabelas adequadamente
 
-![Texto alternativo](img/tabela_relacionamentos.png)
+![modelo_relacional](img/tabela_relacionamentos.png)
 
 - Descrever os passos de preparação dos dados adotados.
    * Mapeamento e uma visão geral das tabelas e relacionamentos entre elas
